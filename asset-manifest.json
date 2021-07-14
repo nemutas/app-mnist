@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mnist-cnn/static/css/main.1b7be8f8.chunk.css",
+    "main.js": "/mnist-cnn/static/js/main.e8f01ff8.chunk.js",
+    "main.js.map": "/mnist-cnn/static/js/main.e8f01ff8.chunk.js.map",
+    "runtime-main.js": "/mnist-cnn/static/js/runtime-main.59a3f6da.js",
+    "runtime-main.js.map": "/mnist-cnn/static/js/runtime-main.59a3f6da.js.map",
+    "static/js/2.03925510.chunk.js": "/mnist-cnn/static/js/2.03925510.chunk.js",
+    "static/js/2.03925510.chunk.js.map": "/mnist-cnn/static/js/2.03925510.chunk.js.map",
+    "static/js/3.962645ed.chunk.js": "/mnist-cnn/static/js/3.962645ed.chunk.js",
+    "static/js/3.962645ed.chunk.js.map": "/mnist-cnn/static/js/3.962645ed.chunk.js.map",
+    "index.html": "/mnist-cnn/index.html",
+    "service-worker.js": "/mnist-cnn/service-worker.js",
+    "service-worker.js.map": "/mnist-cnn/service-worker.js.map",
+    "static/css/main.1b7be8f8.chunk.css.map": "/mnist-cnn/static/css/main.1b7be8f8.chunk.css.map",
+    "static/js/2.03925510.chunk.js.LICENSE.txt": "/mnist-cnn/static/js/2.03925510.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59a3f6da.js",
+    "static/js/2.03925510.chunk.js",
+    "static/css/main.1b7be8f8.chunk.css",
+    "static/js/main.e8f01ff8.chunk.js"
+  ]
+}
