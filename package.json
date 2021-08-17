@@ -1,5 +1,5 @@
 {
-	"name": "mnist_app",
+	"name": "app-mnist",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
@@ -35,7 +35,7 @@
 		"workbox-strategies": "^5.1.3",
 		"workbox-streams": "^5.1.3"
 	},
-	"homepage": "https://nemutas.github.io/mnist-app/",
+	"homepage": "https://nemutas.github.io/app-mnist/",
 	"scripts": {
 		"start": "react-scripts start",
 		"build": "react-scripts build",

@@ -3,7 +3,7 @@
 MNIST 学習モデルを使って、手書き文字を推測するアプリケーションです。<br/>
 フロントエンド側だけでアプリケーションが完結するように、Tensorflow.js パッケージの導入に挑戦しました。
 
-https://nemutas.github.io/mnist-app/
+https://nemutas.github.io/app-mnist/
 
 ![無題](https://user-images.githubusercontent.com/46724121/125665029-d039e00d-c6e1-4c40-9854-63586ee28163.png)
 
