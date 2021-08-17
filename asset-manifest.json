@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/mnist-app/static/css/main.1b7be8f8.chunk.css",
-    "main.js": "/mnist-app/static/js/main.d6812042.chunk.js",
-    "main.js.map": "/mnist-app/static/js/main.d6812042.chunk.js.map",
-    "runtime-main.js": "/mnist-app/static/js/runtime-main.1639eb42.js",
-    "runtime-main.js.map": "/mnist-app/static/js/runtime-main.1639eb42.js.map",
-    "static/js/2.31bce7ad.chunk.js": "/mnist-app/static/js/2.31bce7ad.chunk.js",
-    "static/js/2.31bce7ad.chunk.js.map": "/mnist-app/static/js/2.31bce7ad.chunk.js.map",
-    "static/js/3.962645ed.chunk.js": "/mnist-app/static/js/3.962645ed.chunk.js",
-    "static/js/3.962645ed.chunk.js.map": "/mnist-app/static/js/3.962645ed.chunk.js.map",
-    "index.html": "/mnist-app/index.html",
-    "service-worker.js": "/mnist-app/service-worker.js",
-    "service-worker.js.map": "/mnist-app/service-worker.js.map",
-    "static/css/main.1b7be8f8.chunk.css.map": "/mnist-app/static/css/main.1b7be8f8.chunk.css.map",
-    "static/js/2.31bce7ad.chunk.js.LICENSE.txt": "/mnist-app/static/js/2.31bce7ad.chunk.js.LICENSE.txt"
+    "main.css": "/app-mnist/static/css/main.1b7be8f8.chunk.css",
+    "main.js": "/app-mnist/static/js/main.453dd0f7.chunk.js",
+    "main.js.map": "/app-mnist/static/js/main.453dd0f7.chunk.js.map",
+    "runtime-main.js": "/app-mnist/static/js/runtime-main.645dae44.js",
+    "runtime-main.js.map": "/app-mnist/static/js/runtime-main.645dae44.js.map",
+    "static/js/2.2c15c62f.chunk.js": "/app-mnist/static/js/2.2c15c62f.chunk.js",
+    "static/js/2.2c15c62f.chunk.js.map": "/app-mnist/static/js/2.2c15c62f.chunk.js.map",
+    "static/js/3.3d779801.chunk.js": "/app-mnist/static/js/3.3d779801.chunk.js",
+    "static/js/3.3d779801.chunk.js.map": "/app-mnist/static/js/3.3d779801.chunk.js.map",
+    "index.html": "/app-mnist/index.html",
+    "service-worker.js": "/app-mnist/service-worker.js",
+    "service-worker.js.map": "/app-mnist/service-worker.js.map",
+    "static/css/main.1b7be8f8.chunk.css.map": "/app-mnist/static/css/main.1b7be8f8.chunk.css.map",
+    "static/js/2.2c15c62f.chunk.js.LICENSE.txt": "/app-mnist/static/js/2.2c15c62f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1639eb42.js",
-    "static/js/2.31bce7ad.chunk.js",
+    "static/js/runtime-main.645dae44.js",
+    "static/js/2.2c15c62f.chunk.js",
     "static/css/main.1b7be8f8.chunk.css",
-    "static/js/main.d6812042.chunk.js"
+    "static/js/main.453dd0f7.chunk.js"
   ]
 }
